@@ -7,5 +7,5 @@ Thank You!
 My YouTube channel:- https://www.youtube.com/channel/UC4Ot2hvfFsGxuzz2pgkM6ug \
 YouTube Video for this project:- https://youtu.be/U0OrmaAwsCE \
 Source Code:- https://github.com/Ki123ng/html-css-js-piano \
-Clock:- https://codepen.io/KI123NG/pen/MWbaPRJ \
+Clock:- https://codepen.io/KI123NG/full/MWbaPRJ \
 My Discord Server:- https://discord.gg/yTajV9hqcD
